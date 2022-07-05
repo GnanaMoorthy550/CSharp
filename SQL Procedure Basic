@@ -1,0 +1,6 @@
+// sql
+CREATE PROCEDURE proc_Sql                       -- create proc proc's name -- here proc_Sql is a proc's name
+AS                                              -- syntax & keyword
+BEGIN                                           -- begining the proc its a keyword
+  SELECT "Its a simple stored proc in sql"      -- body of the proc
+END                                              -- End keyword to enclose the proc
